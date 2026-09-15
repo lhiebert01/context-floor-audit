@@ -75,7 +75,7 @@ Over roughly 4,000 tokens of fixed overhead, it is worth doing something about, 
 
 You can fix it by hand — trim the file, replace a large `@import` with a short extract plus a pointer, and keep in `CLAUDE.md` only what a session must know before its first action.
 
-Or the full **Context Floor** kit does it in one command: an installer for Windows, WSL, Linux and macOS that backs up and validates what it writes, a status line showing model, context in absolute tokens, spend and your 5-hour and 7-day meters on every turn, the runbook, and the browser-session playbook. https://pigenai.lemonsqueezy.com/checkout/buy/68e502b4-c483-4709-b679-9219b68e5254
+Or the full **Context Floor** kit does it in one command: an installer for Windows, WSL, Linux and macOS that backs up and validates what it writes, a status line showing model, context in absolute tokens, spend and your 5-hour and 7-day meters on every turn, the runbook, and the browser-session playbook. https://pigenai.lemonsqueezy.com/checkout/buy/85f87b65-c871-4598-a3e2-3df79e19f02e
 
 ---
 
